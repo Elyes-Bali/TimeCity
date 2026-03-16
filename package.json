@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "backend/index.js",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development nodemon backend/index.js",
-    "start": "cross-env NODE_ENV=production node backend/index.js",
+    "dev": "NODE_ENV=development nodemon backend/index.js",
+    "start": "NODE_ENV=production node backend/index.js",
     "build": "cd frontend && npm install && chmod +x node_modules/.bin/vite && npm run build"
   },
   "keywords": [],
