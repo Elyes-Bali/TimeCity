@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval-{X}-Manor_'South'
+* source:	https://sketchfab.com/3d-models/medieval-x-manor-south-f1b39e28b4b549eaa6e7e7e3d5c7d7e7
+* author:	-X-ScornGames (https://sketchfab.com/XX-XX)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval-{X}-Manor_'South'" (https://sketchfab.com/3d-models/medieval-x-manor-south-f1b39e28b4b549eaa6e7e7e3d5c7d7e7) by -X-ScornGames (https://sketchfab.com/XX-XX) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

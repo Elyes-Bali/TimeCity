@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pirate
+* source:	https://sketchfab.com/3d-models/pirate-3fede8ec1ee24eb2993ce5b509e1b8ec
+* author:	Dandelion (https://sketchfab.com/dandelion4days)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pirate" (https://sketchfab.com/3d-models/pirate-3fede8ec1ee24eb2993ce5b509e1b8ec) by Dandelion (https://sketchfab.com/dandelion4days) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
